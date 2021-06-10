@@ -1,0 +1,10 @@
+1 applaud
+2 hold
+3 pick
+4 pull
+5 push
+6 sit
+7 stand
+8 throw
+9 walk
+10 wave
